@@ -31,7 +31,7 @@ const Result = ({navigation}) =>{
             </ScrollView>
             <View className="bottom-0 absolute w-full bg-slate-100">
                 <Text className="self-center py-8">
-                    Copyright Hadi AR ©️120140150
+                    Copyright Hans BB ©️120140131
                 </Text>
             </View>
             <StatusBar style="auto"/>
